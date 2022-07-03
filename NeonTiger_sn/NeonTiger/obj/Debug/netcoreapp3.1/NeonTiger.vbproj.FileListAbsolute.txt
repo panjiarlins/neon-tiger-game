@@ -1,0 +1,46 @@
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbprojAssemblyReference.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.Form1.resources
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbproj.GenerateResource.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.AssemblyInfoInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.AssemblyInfo.vb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbproj.CoreCompileInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.exe
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.deps.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.runtimeconfig.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.runtimeconfig.dev.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.genruntimeconfig.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.exe
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.deps.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.runtimeconfig.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.runtimeconfig.dev.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbprojAssemblyReference.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.Form1.resources
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbproj.GenerateResource.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.AssemblyInfoInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.AssemblyInfo.vb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbproj.CoreCompileInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\NeonTiger_sn2\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.genruntimeconfig.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.exe
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.deps.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.runtimeconfig.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.runtimeconfig.dev.json
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\bin\Debug\netcoreapp3.1\NeonTiger.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbprojAssemblyReference.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.Form1.resources
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbproj.GenerateResource.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.AssemblyInfoInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.AssemblyInfo.vb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.vbproj.CoreCompileInputs.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.dll
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.pdb
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.genruntimeconfig.cache
+C:\Users\PANJI\Documents\Semester 5\CGA\Final Neon Tiger\Source Code\NeonTiger_sn\NeonTiger\obj\Debug\netcoreapp3.1\NeonTiger.Resources.resources
